@@ -1,0 +1,32 @@
+{
+  "orders": [
+    {
+      "car-rental": "",
+      "accommodation": "hotel",
+      "features": [],
+      "adults": 1,
+      "children": 0,
+      "name": "",
+      "contact": "",
+      "start-date": "",
+      "totalCost": "$51,381",
+      "id": 1
+    },
+    {
+      "car-rental": "full",
+      "accommodation": "hotel",
+      "features": [
+        "security"
+      ],
+      "adults": 1,
+      "children": 0,
+      "name": "Marcin",
+      "contact": "3423424",
+      "start-date": "2020-04-29T22:00:00.000Z",
+      "totalCost": "$53,481",
+      "tripName": "5cc1d10130dfa407e2e54e20",
+      "countryCode": "TUR",
+      "id": 2
+    }
+  ]
+}
